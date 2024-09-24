@@ -1,0 +1,23 @@
+/*Estilo para o corpo da página*/
+body{
+    background-color: teal;
+    font-family: 'roboto',sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+/* Estilo para a área principal*/
+main{
+    background-color: lightgray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+footer{
+    margin-top: 35px;
+    margin: auto;
+    background-color: aliceblue;
+    width: 500px;
+    
+}
